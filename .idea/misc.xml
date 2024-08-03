@@ -5,13 +5,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/DependencyInjection_01/pom.xml" />
-        <option value="$PROJECT_DIR$/DependencyInjection_01/Aula01/pom.xml" />
         <option value="$PROJECT_DIR$/Aula01/pom.xml" />
+        <option value="$PROJECT_DIR$/DependencyInjection_01/pom.xml" />
         <option value="$PROJECT_DIR$/DependencyInjection_02/pom.xml" />
         <option value="$PROJECT_DIR$/DependencyInjection_03/pom.xml" />
-        <option value="$PROJECT_DIR$/DependencyInjection_Step03/pom.xml" />
+        <option value="$PROJECT_DIR$/DependencyInjection_Step01/pom.xml" />
+        <option value="$PROJECT_DIR$/DependencyInjection_Step02/pom.xml" />
+        <option value="$PROJECT_DIR$/DependencyInjection_04/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/DependencyInjection_Step01/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">

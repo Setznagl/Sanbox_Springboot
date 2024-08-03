@@ -7,20 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Aula01" />
         <module name="test (2)" />
-        <module name="test (1)" />
+        <module name="DependencyInjection_01" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="demo" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Aula01" options="-parameters" />
-      <module name="demo" options="-parameters" />
-      <module name="test" options="-parameters" />
+      <module name="DependencyInjection_01" options="-parameters" />
+      <module name="DependencyInjection_04" options="-parameters" />
       <module name="test (1)" options="-parameters" />
       <module name="test (2)" options="-parameters" />
     </option>
