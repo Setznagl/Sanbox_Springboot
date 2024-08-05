@@ -4,19 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/conventionalCommit.xml" afterDir="false" />
+    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Aula03Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Controller/PessoaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Model/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Repository/PessoaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/src/main/resources/templates/alterarPessoa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/src/main/resources/templates/cadastrarPessoa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/src/main/resources/templates/listarPessoas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/src/test/java/com/example/aula03/Aula03ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Aula03Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Controller/PessoaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Model/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Repository/PessoaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/alterarPessoa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/cadastrarPessoa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/listarPessoas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/test/java/com/example/aula03/Aula03ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/src/main/java/com/example/restapi/Controller/ClienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/src/main/java/com/example/restapi/Model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/src/main/java/com/example/restapi/Repository/ClienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/src/main/java/com/example/restapi/RestApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI/src/test/java/com/example/restapi/RestApiApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula02/src/main/java/com/example/aula02/Model/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula02/src/main/java/com/example/aula02/Model/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula02/src/main/java/com/example/aula02/Repository/PessoaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula02/src/main/java/com/example/aula02/Repository/PessoaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,6 +70,7 @@
         <option value="Class" />
         <option value="Interface" />
         <option value="HTTP Request" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,20 +107,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "HTTP Request.All in HTTP_Tests.executor": "Run",
     "HTTP Request.HTTP_Tests | #1.executor": "Run",
     "HTTP Request.HTTP_Tests | #2.executor": "Run",
     "HTTP Request.HTTP_Tests | #3.executor": "Run",
     "HTTP Request.generated-requests | #1.executor": "Run",
     "HTTP Request.generated-requests | #2.executor": "Run",
+    "HTTP Request.generated-requests | #3.executor": "Run",
+    "JUnit.Aula03ApplicationTests.executor": "Run",
+    "JavaScript Debug.cadastrarPessoa.html.executor": "Run",
+    "JavaScript Debug.listarPessoas.html.executor": "Run",
     "Maven.Aula02 [clean].executor": "Run",
     "Maven.Aula02 [install].executor": "Run",
+    "Maven.Aula03 [clean].executor": "Run",
+    "Maven.Aula03 [install].executor": "Run",
+    "Maven.Aula03 [verify].executor": "Run",
+    "Maven.Aula04 [clean].executor": "Run",
+    "Maven.Aula04 [install].executor": "Run",
     "Maven.Passo 0 [install].executor": "Run",
     "Maven.Passo 0 [package].executor": "Run",
     "Maven.Passo 0 [validate].executor": "Run",
     "Maven.Passo 0 [verify].executor": "Run",
     "Maven.Passo0 [install].executor": "Run",
     "Maven.Passo0 [validate].executor": "Run",
+    "Maven.RestAPI [install].executor": "Run",
     "Maven.test [install].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
@@ -82,13 +141,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.Aula02Application.executor": "Run",
+    "Spring Boot.Aula03Application.executor": "Run",
     "Spring Boot.DemoApplication.executor": "Run",
     "Spring Boot.DependencyInjection04Application.executor": "Run",
+    "Spring Boot.RestApiApplication.executor": "Run",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gabri/OneDrive/Documentos/GitHub/Sandbox_Springboot/Aula04/pom.xml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -108,6 +170,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -120,8 +187,72 @@
   <component name="RunManager">
     <configuration name="Aula02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Aula02" />
+      <module name="REST Full API" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aula02.Aula02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula03Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Template Thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aula03.Aula03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="CRUD Thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aula03.Aula03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Passo_00" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Aula01.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Passo_01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Intr. ao SpringBoot com Thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Aula01.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DependencyInjection01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Passo_02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.test.DependencyInjection01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DependencyInjection04Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Passo_03" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.dependencyinjection_04.DependencyInjection04Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="RestAPI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.restapi.RestApiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,20 +275,26 @@
       <option name="presentableId" value="Default" />
       <updated>1722726050535</updated>
       <workItem from="1722726051804" duration="1082000" />
-      <workItem from="1722727145719" duration="3501000" />
+      <workItem from="1722727145719" duration="5571000" />
+      <workItem from="1722733622767" duration="22816000" />
     </task>
+    <task id="LOCAL-00001" summary="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull">
+      <option name="closed" value="true" />
+      <created>1722731101472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722731101472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="com.github.lppedd.cc.CommitBuilderDialog">
-    <type>build</type>
-    <scope>New Files</scope>
-    <subject>Aula 02</subject>
-    <body>Intrudução a API's Restfull</body>
-    <footers>
-      <entry type="" value="" />
-    </footers>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull" />
+    <option name="LAST_COMMIT_MESSAGE" value="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull" />
   </component>
 </project>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastrar Pessoa</title>
+</head>
+<body>
+    <form action="#" th:action="@{/pessoa/save}" th:object="${pessoa_attribute}" method="post">
+        <label for="name_id">Nome</label>
+        <input type="text" placeholder="Meu nome" id="name_id" th:field="${pessoa_attribute.name}">
+
+        <label for="email_id">Email</label>
+        <input type="email" placeholder="Meu e-mail" id="email_id" th:field="${pessoa_attribute.email}">
+
+        <label for="phone_id">Telefone</label>
+        <input type="text" placeholder="Meu telefone" id="phone_id" th:field="${pessoa_attribute.phone}">
+
+        <input type="submit" value="Salvar">
+    </form>
+</body>
+</html>
