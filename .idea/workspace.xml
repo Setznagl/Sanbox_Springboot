@@ -4,58 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Aula03Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Controller/PessoaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Model/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Repository/PessoaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/src/main/resources/templates/alterarPessoa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/src/main/resources/templates/cadastrarPessoa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/src/main/resources/templates/listarPessoas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/src/test/java/com/example/aula03/Aula03ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Aula03Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Controller/PessoaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Model/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Repository/PessoaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/alterarPessoa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/cadastrarPessoa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/listarPessoas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/test/java/com/example/aula03/Aula03ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/src/main/java/com/example/restapi/Controller/ClienteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/src/main/java/com/example/restapi/Model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/src/main/java/com/example/restapi/Repository/ClienteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/src/main/java/com/example/restapi/RestApiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI/src/test/java/com/example/restapi/RestApiApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula02/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="build(New Files): Aula 03 + conteúdo adicional API REST" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -276,7 +225,7 @@
       <updated>1722726050535</updated>
       <workItem from="1722726051804" duration="1082000" />
       <workItem from="1722727145719" duration="5571000" />
-      <workItem from="1722733622767" duration="22816000" />
+      <workItem from="1722733622767" duration="23270000" />
     </task>
     <task id="LOCAL-00001" summary="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull">
       <option name="closed" value="true" />
@@ -286,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722731101472</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="build(New Files): Aula 03 + conteúdo adicional API REST">
+      <option name="closed" value="true" />
+      <created>1722852676201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722852676201</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +252,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull" />
-    <option name="LAST_COMMIT_MESSAGE" value="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull" />
+    <MESSAGE value="build(New Files): Aula 03 + conteúdo adicional API REST" />
+    <option name="LAST_COMMIT_MESSAGE" value="build(New Files): Aula 03 + conteúdo adicional API REST" />
   </component>
 </project>
