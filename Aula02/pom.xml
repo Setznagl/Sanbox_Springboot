@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>REST Full API</artifactId>
+    <artifactId>REST_Full_API</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Aula02</name>
     <description>Aula02</description>

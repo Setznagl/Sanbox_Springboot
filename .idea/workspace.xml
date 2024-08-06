@@ -5,32 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="build(New Files): Aula 03 + conteúdo adicional API REST">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula03/src/databaseCreation.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/creationScript.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/MultipleDataSourcesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/PrimeiroBancoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/SegundoBancoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/primeiroBanco/Model/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/primeiroBanco/Repository/PessoaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/segundoBanco/Model/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/segundoBanco/Repository/ProdutoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/test/java/com/example/multipledatasources/MultipleDataSourcesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/TerceiroBancoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/terceiroBanco/Model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/terceiroBanco/Repository/ClienteRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a4e3c703-b5d1-4571-91e1-40f8c3f35062.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a4e3c703-b5d1-4571-91e1-40f8c3f35062/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a4e3c703-b5d1-4571-91e1-40f8c3f35062/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be1fc227-ec60-4c22-873d-972248228629.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/be1fc227-ec60-4c22-873d-972248228629.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/creationScript.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/creationScript.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/MultipleDataSourcesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/MultipleDataSourcesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/PrimeiroBancoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/PrimeiroBancoConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/SegundoBancoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/SegundoBancoConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/primeiroBanco/Model/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/primeiroBanco/Model/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +36,8 @@
       <list>
         <option value="HTTP Request" />
         <option value="HTML File" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -103,13 +94,17 @@
     "Maven.Aula03 [verify].executor": "Run",
     "Maven.Aula04 [clean].executor": "Run",
     "Maven.Aula04 [install].executor": "Run",
+    "Maven.CRUD Thymeleaf [install].executor": "Run",
     "Maven.Passo 0 [install].executor": "Run",
     "Maven.Passo 0 [package].executor": "Run",
     "Maven.Passo 0 [validate].executor": "Run",
     "Maven.Passo 0 [verify].executor": "Run",
     "Maven.Passo0 [install].executor": "Run",
     "Maven.Passo0 [validate].executor": "Run",
+    "Maven.REST Full API [install].executor": "Run",
     "Maven.RestAPI [install].executor": "Run",
+    "Maven.ao SpringBoot com Thymeleaf [clean].executor": "Run",
+    "Maven.ao SpringBoot com Thymeleaf [install].executor": "Run",
     "Maven.test [install].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",

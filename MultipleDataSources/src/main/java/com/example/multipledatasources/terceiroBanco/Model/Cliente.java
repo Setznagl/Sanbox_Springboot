@@ -1,4 +1,4 @@
-package com.example.multipledatasources.primeiroBanco.Model;
+package com.example.multipledatasources.terceiroBanco.Model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -10,12 +10,12 @@ import lombok.Data;
 @Data
 @Entity
 @AllArgsConstructor
-public class Pessoa {
+public class Cliente {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     private String nome;
 
-    protected Pessoa() {}
+    protected Cliente() {}
 }
