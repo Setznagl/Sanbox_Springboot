@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!--        Acesso o "template", injeta o "templateMain dentro da main do "template" com a propriedade
+            th:include e me devolve a "concatenação" dos dois                             -->
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml" th:replace="~{template :: layout (~{:: main})}">
+
+<body>
+    <form action="#" th:action="@{/pessoa/save}" th:object="${pessoa_attribute}" method="post">
+        <table>
+            <tr>
+                <label for="name_id">Nome</label>
+                <input type="text" placeholder="Meu nome" id="name_id" th:field="${pessoa_attribute.name}">
+            <tr>
+            </tr>
+                <label for="email_id">Email</label>
+                <input type="email" placeholder="Meu e-mail" id="email_id" th:field="${pessoa_attribute.email}">
+            <tr>
+                <label for="phone_id">Telefone</label>
+                <input type="text" placeholder="Meu telefone" id="phone_id" th:field="${pessoa_attribute.phone}">
+            </tr>
+                <tr>
+                <input type="submit" value="Salvar">
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

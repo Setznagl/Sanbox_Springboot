@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>Aula04</artifactId>
+    <artifactId>Template_Thymeleaf</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Aula04</name>
     <description>Aula04</description>

@@ -11,25 +11,22 @@
         <module name="Passo_00" />
         <module name="Passo_01" />
         <module name="Passo_02" />
-        <module name="Aula04" />
         <module name="Passo_03" />
         <module name="RestAPI" />
         <module name="Aula01" />
+        <module name="Template_Thymeleaf" />
         <module name="REST_Full_API" />
         <module name="Template Thymeleaf" />
         <module name="CRUD Thymeleaf" />
         <module name="REST Full API" />
         <module name="MultipleDataSources" />
         <module name="CRUD_Thymeleaf" />
-        <module name="test (2)" />
-        <module name="test (1)" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Aula01" options="-parameters" />
-      <module name="Aula04" options="-parameters" />
       <module name="CRUD Thymeleaf" options="-parameters" />
       <module name="CRUD_Thymeleaf" options="-parameters" />
       <module name="Intr. ao SpringBoot com Thymeleaf" options="-parameters" />
@@ -42,8 +39,7 @@
       <module name="REST_Full_API" options="-parameters" />
       <module name="RestAPI" options="-parameters" />
       <module name="Template Thymeleaf" options="-parameters" />
-      <module name="test (1)" options="-parameters" />
-      <module name="test (2)" options="-parameters" />
+      <module name="Template_Thymeleaf" options="-parameters" />
     </option>
   </component>
 </project>

@@ -4,24 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="build(New Files): Aula 03 + conteúdo adicional API REST">
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/TerceiroBancoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/terceiroBanco/Model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/terceiroBanco/Repository/ClienteRepository.java" afterDir="false" />
+    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="feat(New Files): Multiplos Bancos de Dados Spring&#10;&#10;Finalizando exemplo de implantação múltipla de bancos de dados">
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/creationScript.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/templateMain.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be1fc227-ec60-4c22-873d-972248228629.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/be1fc227-ec60-4c22-873d-972248228629.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula02/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/creationScript.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/creationScript.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/MultipleDataSourcesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/MultipleDataSourcesApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/PrimeiroBancoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/PrimeiroBancoConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/SegundoBancoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/SegundoBancoConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/primeiroBanco/Model/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/primeiroBanco/Model/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Aula03Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Aula03Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Controller/PessoaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Controller/PessoaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Model/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Model/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Repository/PessoaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Repository/PessoaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/test/java/com/example/aula03/Aula03ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/test/java/com/example/aula04/Aula03ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Aula03Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula04/Aula04Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Controller/PessoaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula04/Controller/PessoaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Model/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula04/Model/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Repository/PessoaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula04/Repository/PessoaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/src/main/resources/templates/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/src/test/java/com/example/aula03/Aula03ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/test/java/com/example/aula04/Aula04ApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +35,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTTP Request" />
-        <option value="HTML File" />
         <option value="Class" />
         <option value="Interface" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -114,6 +114,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.Aula02Application.executor": "Run",
     "Spring Boot.Aula03Application.executor": "Run",
+    "Spring Boot.Aula04Application.executor": "Run",
     "Spring Boot.DemoApplication.executor": "Run",
     "Spring Boot.DependencyInjection04Application.executor": "Run",
     "Spring Boot.MultipleDataSourcesApplication.executor": "Run",
@@ -123,7 +124,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gabri/OneDrive/Documentos/GitHub/Sandbox_Angular",
+    "last_opened_file_path": "C:/Users/a920062/Desktop/Repostórios Clonados/Sandbox_Springboot/Aula04/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -145,6 +146,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a920062\Desktop\Repostórios Clonados\Sandbox_Springboot\Aula04\src\main\resources" />
       <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -200,24 +202,36 @@
       <option name="project" value="LOCAL" />
       <updated>1722852676201</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat(New Files): Multiplos Bancos de Dados Spring&#10;&#10;Finalizando exemplo de implantação múltipla de bancos de dados">
+      <option name="closed" value="true" />
+      <created>1722969408167</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722969408168</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull" />
     <MESSAGE value="build(New Files): Aula 03 + conteúdo adicional API REST" />
-    <option name="LAST_COMMIT_MESSAGE" value="build(New Files): Aula 03 + conteúdo adicional API REST" />
-  </component>
-  <component name="com.github.lppedd.cc.CommitBuilderDialog">
-    <type>feat</type>
-    <scope>New Files</scope>
-    <subject>Multiplos Bancos de Dados Spring</subject>
-    <footers>
-      <entry type="" value="" />
-    </footers>
+    <MESSAGE value="feat(New Files): Multiplos Bancos de Dados Spring&#10;&#10;Finalizando exemplo de implantação múltipla de bancos de dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(New Files): Multiplos Bancos de Dados Spring&#10;&#10;Finalizando exemplo de implantação múltipla de bancos de dados" />
   </component>
 </project>

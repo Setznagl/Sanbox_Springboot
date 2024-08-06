@@ -1,10 +1,10 @@
-package com.example.aula03;
+package com.example.aula04;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Aula03ApplicationTests {
+class Aula04ApplicationTests {
 
     @Test
     void contextLoads() {

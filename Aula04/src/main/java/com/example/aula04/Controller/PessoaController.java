@@ -1,7 +1,7 @@
-package com.example.aula03.Controller;
+package com.example.aula04.Controller;
 
-import com.example.aula03.Model.Pessoa;
-import com.example.aula03.Repository.PessoaRepository;
+import com.example.aula04.Model.Pessoa;
+import com.example.aula04.Repository.PessoaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

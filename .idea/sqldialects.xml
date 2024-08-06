@@ -2,6 +2,7 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Aula03/src/databaseCreation.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Aula04/src/main/resources/creationScript.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/MultipleDataSources/src/creationScript.sql" dialect="PostgreSQL" />
   </component>
 </project>
