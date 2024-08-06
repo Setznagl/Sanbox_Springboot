@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="build(New Files): Aula 03 + conteúdo adicional API REST" />
+    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="build(New Files): Aula 03 + conteúdo adicional API REST">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula03/src/databaseCreation.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/creationScript.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/MultipleDataSourcesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/PrimeiroBancoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/SegundoBancoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/primeiroBanco/Model/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/primeiroBanco/Repository/PessoaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/segundoBanco/Model/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/segundoBanco/Repository/ProdutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultipleDataSources/src/test/java/com/example/multipledatasources/MultipleDataSourcesApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a4e3c703-b5d1-4571-91e1-40f8c3f35062.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a4e3c703-b5d1-4571-91e1-40f8c3f35062/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a4e3c703-b5d1-4571-91e1-40f8c3f35062/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +43,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="Interface" />
         <option value="HTTP Request" />
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -57,6 +84,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Runner.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "HTTP Request.All in HTTP_Tests.executor": "Run",
     "HTTP Request.HTTP_Tests | #1.executor": "Run",
@@ -93,13 +121,14 @@
     "Spring Boot.Aula03Application.executor": "Run",
     "Spring Boot.DemoApplication.executor": "Run",
     "Spring Boot.DependencyInjection04Application.executor": "Run",
+    "Spring Boot.MultipleDataSourcesApplication.executor": "Run",
     "Spring Boot.RestApiApplication.executor": "Run",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gabri/OneDrive/Documentos/GitHub/Sandbox_Springboot/Aula04/pom.xml",
+    "last_opened_file_path": "C:/Users/gabri/OneDrive/Documentos/GitHub/Sandbox_Angular",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -114,14 +143,20 @@
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
-      "postgresql",
-      "h2"
+      "h2",
+      "postgresql"
     ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.multipledatasources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.multipledatasources.config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -132,80 +167,6 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="Aula02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="REST Full API" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aula02.Aula02Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula03Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Template Thymeleaf" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aula03.Aula03Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="CRUD Thymeleaf" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aula03.Aula03Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Passo_00" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Aula01.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Passo_01" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Intr. ao SpringBoot com Thymeleaf" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Aula01.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DependencyInjection01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Passo_02" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.test.DependencyInjection01Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DependencyInjection04Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Passo_03" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.dependencyinjection_04.DependencyInjection04Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="RestAPI" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.restapi.RestApiApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -225,7 +186,8 @@
       <updated>1722726050535</updated>
       <workItem from="1722726051804" duration="1082000" />
       <workItem from="1722727145719" duration="5571000" />
-      <workItem from="1722733622767" duration="23270000" />
+      <workItem from="1722733622767" duration="24068000" />
+      <workItem from="1722906297511" duration="9058000" />
     </task>
     <task id="LOCAL-00001" summary="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull">
       <option name="closed" value="true" />
@@ -254,5 +216,13 @@
     <MESSAGE value="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull" />
     <MESSAGE value="build(New Files): Aula 03 + conteúdo adicional API REST" />
     <option name="LAST_COMMIT_MESSAGE" value="build(New Files): Aula 03 + conteúdo adicional API REST" />
+  </component>
+  <component name="com.github.lppedd.cc.CommitBuilderDialog">
+    <type>feat</type>
+    <scope>New Files</scope>
+    <subject>Multiplos Bancos de Dados Spring</subject>
+    <footers>
+      <entry type="" value="" />
+    </footers>
   </component>
 </project>
