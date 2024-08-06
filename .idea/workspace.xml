@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="feat(New Files): Multiplos Bancos de Dados Spring&#10;&#10;Finalizando exemplo de implantação múltipla de bancos de dados">
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/creationScript.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/templateMain.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Aula03Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Aula03Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Controller/PessoaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Controller/PessoaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Model/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Model/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Repository/PessoaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Repository/PessoaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula03/src/test/java/com/example/aula03/Aula03ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/test/java/com/example/aula04/Aula03ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Aula03Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula04/Aula04Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Controller/PessoaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula04/Controller/PessoaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Model/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula04/Model/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula03/Repository/PessoaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/main/java/com/example/aula04/Repository/PessoaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula04/src/main/resources/templates/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/main/resources/templates/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula04/src/test/java/com/example/aula03/Aula03ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/src/test/java/com/example/aula04/Aula04ApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="feat(New Files): Multiplos Bancos de Dados Spring&#10;&#10;Finalizando exemplo de implantação múltipla de bancos de dados" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +93,6 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.Aula02Application.executor": "Run",
     "Spring Boot.Aula03Application.executor": "Run",
     "Spring Boot.Aula04Application.executor": "Run",
@@ -210,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722969408168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat(New Files): Multiplos Bancos de Dados Spring&#10;&#10;Finalizando exemplo de implantação múltipla de bancos de dados">
+      <option name="closed" value="true" />
+      <created>1722984109843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722984109843</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
