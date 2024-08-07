@@ -4,7 +4,88 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="feat(New Files): Multiplos Bancos de Dados Spring&#10;&#10;Finalizando exemplo de implantação múltipla de bancos de dados" />
+    <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="feat(New Files): Multiplos Bancos de Dados Spring">
+      <change afterPath="$PROJECT_DIR$/JavaDocker/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocker/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocker/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocker/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocker/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocker/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocker/src/main/java/com/example/javadocker/JavaDockerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocker/src/main/java/com/example/javadocker/Model/SysUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocker/src/main/java/com/example/javadocker/Repository/SysUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDocker/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbatch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbatch/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbatch/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbatch/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbatch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbatch/src/main/java/com/example/springbatch/SpringbatchApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbatch/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbatch/src/test/java/com/example/springbatch/SpringbatchApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be1fc227-ec60-4c22-873d-972248228629.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be1fc227-ec60-4c22-873d-972248228629/storage_v2/_src_/database/CRUD_Thymeleaf.2gGD3w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be1fc227-ec60-4c22-873d-972248228629/storage_v2/_src_/database/CRUD_Thymeleaf.2gGD3w/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T202144.200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T204419.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T204425.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T204429.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T204439.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T204447.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205120.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205126.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205131.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205404.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205423.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205440.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205453.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205523.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205526.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205658.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205703.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205911.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205915.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205917.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205928.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205939.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205952.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T205954.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210005.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210019.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210241.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210245-1.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210245-2.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210245.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210306-1.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210306-2.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210306.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210316.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210321.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210324.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210357.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210358.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210404.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210407.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210547.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210549.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2024-08-03T210550.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Aula03Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Aula03Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Controller/PessoaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Controller/PessoaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Model/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Model/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula04/Repository/PessoaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/java/com/example/aula03/Repository/PessoaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/src/test/java/com/example/aula04/Aula03ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDocker/src/test/java/com/example/javadocker/JavaDockerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/creationScript.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/resources/creationScript.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +98,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTTP Request" />
+        <option value="HTML File" />
+        <option value="Dockerfile" />
         <option value="Class" />
         <option value="Interface" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -59,6 +141,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Runner.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
+    "Docker.Docker.postgres: Compose Deployment.executor": "Run",
+    "Docker.Docker: Compose Deployment.executor": "Run",
+    "Docker.springbatch/compose.yaml: Compose Deployment.executor": "Run",
     "HTTP Request.All in HTTP_Tests.executor": "Run",
     "HTTP Request.HTTP_Tests | #1.executor": "Run",
     "HTTP Request.HTTP_Tests | #2.executor": "Run",
@@ -66,6 +151,7 @@
     "HTTP Request.generated-requests | #1.executor": "Run",
     "HTTP Request.generated-requests | #2.executor": "Run",
     "HTTP Request.generated-requests | #3.executor": "Run",
+    "JUnit.Aula03ApplicationTests.contextLoads.executor": "Run",
     "JUnit.Aula03ApplicationTests.executor": "Run",
     "JavaScript Debug.cadastrarPessoa.html.executor": "Run",
     "JavaScript Debug.listarPessoas.html.executor": "Run",
@@ -77,6 +163,12 @@
     "Maven.Aula04 [clean].executor": "Run",
     "Maven.Aula04 [install].executor": "Run",
     "Maven.CRUD Thymeleaf [install].executor": "Run",
+    "Maven.CRUD_Thymeleaf [clean].executor": "Run",
+    "Maven.CRUD_Thymeleaf [compile].executor": "Run",
+    "Maven.CRUD_Thymeleaf [install].executor": "Run",
+    "Maven.CRUD_Thymeleaf [site].executor": "Run",
+    "Maven.CRUD_Thymeleaf [test].executor": "Run",
+    "Maven.CRUD_Thymeleaf [verify].executor": "Run",
     "Maven.Passo 0 [install].executor": "Run",
     "Maven.Passo 0 [package].executor": "Run",
     "Maven.Passo 0 [validate].executor": "Run",
@@ -85,6 +177,13 @@
     "Maven.Passo0 [validate].executor": "Run",
     "Maven.REST Full API [install].executor": "Run",
     "Maven.RestAPI [install].executor": "Run",
+    "Maven.Spring_Batch [clean].executor": "Run",
+    "Maven.Spring_Batch [compile].executor": "Run",
+    "Maven.Spring_Batch [install].executor": "Run",
+    "Maven.Spring_Batch [package].executor": "Run",
+    "Maven.Spring_Batch [test].executor": "Run",
+    "Maven.Spring_Batch [validate].executor": "Run",
+    "Maven.Spring_Batch [verify].executor": "Run",
     "Maven.ao SpringBoot com Thymeleaf [clean].executor": "Run",
     "Maven.ao SpringBoot com Thymeleaf [install].executor": "Run",
     "Maven.test [install].executor": "Run",
@@ -93,19 +192,23 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.Aula02Application.executor": "Run",
     "Spring Boot.Aula03Application.executor": "Run",
     "Spring Boot.Aula04Application.executor": "Run",
+    "Spring Boot.Aula07Application.executor": "Run",
     "Spring Boot.DemoApplication.executor": "Run",
     "Spring Boot.DependencyInjection04Application.executor": "Run",
+    "Spring Boot.JavaDockerApplication.executor": "Run",
     "Spring Boot.MultipleDataSourcesApplication.executor": "Run",
     "Spring Boot.RestApiApplication.executor": "Run",
+    "Spring Boot.SpringbatchApplication.executor": "Run",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/a920062/Desktop/Repostórios Clonados/Sandbox_Springboot/Aula04/src/main/resources",
+    "last_opened_file_path": "C:/Users/gabri/OneDrive/Documentos/GitHub/Sandbox_Springboot/JavaDocker/pom.xml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -127,13 +230,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\a920062\Desktop\Repostórios Clonados\Sandbox_Springboot\Aula04\src\main\resources" />
+      <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot\Aula03" />
       <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot" />
+      <recent name="C:\Users\a920062\Desktop\Repostórios Clonados\Sandbox_Springboot\Aula04\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot\Aula07\src\main\java\com\example\aula07" />
+      <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot\MultipleDataSources\src\main\resources" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.example.multipledatasources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.aula03" />
       <recent name="com.example.multipledatasources.config" />
     </key>
   </component>
@@ -142,9 +251,23 @@
       <set>
         <option value="MicronautRunConfigurationType" />
         <option value="QuarkusRunConfigurationType" />
-        <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaDockerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="JavaDocker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.javadocker.JavaDockerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -166,6 +289,10 @@
       <workItem from="1722727145719" duration="5571000" />
       <workItem from="1722733622767" duration="24068000" />
       <workItem from="1722906297511" duration="9058000" />
+      <workItem from="1722987852853" duration="1986000" />
+      <workItem from="1722989900035" duration="145000" />
+      <workItem from="1722990058288" duration="1937000" />
+      <workItem from="1722992008174" duration="7560000" />
     </task>
     <task id="LOCAL-00001" summary="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull">
       <option name="closed" value="true" />

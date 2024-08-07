@@ -15,31 +15,39 @@
         <module name="RestAPI" />
         <module name="Aula01" />
         <module name="Template_Thymeleaf" />
+        <module name="JavaDocker" />
         <module name="REST_Full_API" />
         <module name="Template Thymeleaf" />
-        <module name="CRUD Thymeleaf" />
-        <module name="REST Full API" />
+        <module name="RESTFullAPI" />
         <module name="MultipleDataSources" />
+        <module name="CRUDThymeleaf" />
         <module name="CRUD_Thymeleaf" />
+        <module name="springbatch" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring_Batch" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Aula01" options="-parameters" />
-      <module name="CRUD Thymeleaf" options="-parameters" />
+      <module name="CRUDThymeleaf" options="-parameters" />
       <module name="CRUD_Thymeleaf" options="-parameters" />
       <module name="Intr. ao SpringBoot com Thymeleaf" options="-parameters" />
+      <module name="JavaDocker" options="-parameters" />
       <module name="MultipleDataSources" options="-parameters" />
       <module name="Passo_00" options="-parameters" />
       <module name="Passo_01" options="-parameters" />
       <module name="Passo_02" options="-parameters" />
       <module name="Passo_03" options="-parameters" />
-      <module name="REST Full API" options="-parameters" />
+      <module name="RESTFullAPI" options="-parameters" />
       <module name="REST_Full_API" options="-parameters" />
       <module name="RestAPI" options="-parameters" />
+      <module name="Spring_Batch" options="-parameters" />
       <module name="Template Thymeleaf" options="-parameters" />
       <module name="Template_Thymeleaf" options="-parameters" />
+      <module name="springbatch" options="-parameters" />
     </option>
   </component>
 </project>
