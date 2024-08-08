@@ -20,6 +20,7 @@
         <module name="Template Thymeleaf" />
         <module name="RESTFullAPI" />
         <module name="MultipleDataSources" />
+        <module name="Spring_Security" />
         <module name="CRUDThymeleaf" />
         <module name="CRUD_Thymeleaf" />
         <module name="springbatch" />
@@ -45,6 +46,7 @@
       <module name="REST_Full_API" options="-parameters" />
       <module name="RestAPI" options="-parameters" />
       <module name="Spring_Batch" options="-parameters" />
+      <module name="Spring_Security" options="-parameters" />
       <module name="Template Thymeleaf" options="-parameters" />
       <module name="Template_Thymeleaf" options="-parameters" />
       <module name="springbatch" options="-parameters" />

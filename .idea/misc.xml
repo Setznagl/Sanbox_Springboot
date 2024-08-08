@@ -17,14 +17,12 @@
         <option value="$PROJECT_DIR$/RestAPI/pom.xml" />
         <option value="$PROJECT_DIR$/Aula04/pom.xml" />
         <option value="$PROJECT_DIR$/MultipleDataSources/pom.xml" />
-        <option value="$PROJECT_DIR$/Aula07/pom.xml" />
-        <option value="$PROJECT_DIR$/springbatch/pom.xml" />
+        <option value="$PROJECT_DIR$/Aula05/pom.xml" />
         <option value="$PROJECT_DIR$/JavaDocker/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/Aula07/pom.xml" />
         <option value="$PROJECT_DIR$/DependencyInjection_Step01/pom.xml" />
       </set>
     </option>
