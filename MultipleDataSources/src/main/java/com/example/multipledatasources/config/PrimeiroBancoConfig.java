@@ -38,8 +38,8 @@ public class PrimeiroBancoConfig {
         HibernateJpaVendorAdapter hibernateAdapter = new HibernateJpaVendorAdapter();
         hibernateAdapter.setShowSql(true);
         hibernateAdapter.setGenerateDdl(true);
-        em.setJpaVendorAdapter(hibernateAdapter);
 
+        em.setJpaVendorAdapter(hibernateAdapter);
         return em;
     }
 
