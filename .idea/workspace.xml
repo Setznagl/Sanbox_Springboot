@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="feat(New Files): Multiplos Bancos de Dados Spring">
+      <change afterPath="$PROJECT_DIR$/Aula05/src/main/java/com/ufn/javaacademy/aula05/config/LoadDatabaseUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula05/src/main/java/com/ufn/javaacademy/aula05/config/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula05/src/main/java/com/ufn/javaacademy/aula05/controller/SecurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula05/src/main/java/com/ufn/javaacademy/aula05/model/Usr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula05/src/main/java/com/ufn/javaacademy/aula05/repository/UsrRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula05/src/main/java/com/ufn/javaacademy/aula05/security/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula05/src/main/java/com/ufn/javaacademy/aula05/security/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula05/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula05/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula05/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/PrimeiroBancoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleDataSources/src/main/java/com/example/multipledatasources/config/PrimeiroBancoConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula05/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/src/main/java/com/ufn/javaacademy/aula05/Aula05Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula05/src/main/java/com/ufn/javaacademy/aula05/SpringsecurityApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/src/main/java/com/ufn/javaacademy/aula05/Config/MvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Aula05/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/src/main/resources/templates/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +39,8 @@
         <option value="HTTP Request" />
         <option value="Dockerfile" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -127,12 +144,13 @@
     "Spring Boot.MultipleDataSourcesApplication.executor": "Run",
     "Spring Boot.RestApiApplication.executor": "Run",
     "Spring Boot.SpringbatchApplication.executor": "Run",
+    "Spring Boot.SpringsecurityApplication.executor": "Run",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/a920062/Desktop/Repostórios Clonados/Java-UFN-JavaAcademy-Projeto-Final/MARBYN",
+    "last_opened_file_path": "C:/Users/gabri/OneDrive/Documentos/GitHub/Sandbox_Springboot/Aula05/src/main/java/com/ufn/javaacademy/aula05",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -154,9 +172,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot\Aula05\src\main\java\com\ufn\javaacademy\aula05" />
+      <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot\Aula05\src\main" />
+      <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot\Aula05\src\main\java" />
       <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot\Aula03" />
       <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot" />
-      <recent name="C:\Users\a920062\Desktop\Repostórios Clonados\Sandbox_Springboot\Aula04\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gabri\OneDrive\Documentos\GitHub\Sandbox_Springboot\Aula07\src\main\java\com\example\aula07" />
@@ -166,6 +186,7 @@
       <recent name="com.example.multipledatasources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ufn.javaacademy.aula05" />
       <recent name="com.example.aula03" />
       <recent name="com.example.multipledatasources.config" />
     </key>
@@ -178,97 +199,10 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Aula02Application">
-    <configuration name="Aula02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="REST_Full_API" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aula02.Aula02Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="CRUD_Thymeleaf" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aula03.Aula03Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula04Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Template_Thymeleaf" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aula04.Aula04Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula05Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="SpringsecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Spring_Security" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ufn.javaacademy.aula05.Aula05Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Passo_00" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Aula01.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Passo_01" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Aula01" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Aula01.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DependencyInjection01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Passo_02" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.test.DependencyInjection01Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DependencyInjection04Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="Passo_03" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.dependencyinjection_04.DependencyInjection04Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaDockerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="JavaDocker" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.javadocker.JavaDockerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultipleDataSourcesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="MultipleDataSources" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.multipledatasources.MultipleDataSourcesApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="RestAPI" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.restapi.RestApiApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ufn.javaacademy.aula05.SpringsecurityApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -283,8 +217,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -308,6 +242,8 @@
       <workItem from="1723074833726" duration="723000" />
       <workItem from="1723083668378" duration="355000" />
       <workItem from="1723117912728" duration="8749000" />
+      <workItem from="1723333083271" duration="9896000" />
+      <workItem from="1723348345839" duration="4135000" />
     </task>
     <task id="LOCAL-00001" summary="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull">
       <option name="closed" value="true" />
