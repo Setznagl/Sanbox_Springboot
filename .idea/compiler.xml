@@ -15,7 +15,6 @@
         <module name="RestAPI" />
         <module name="Aula01" />
         <module name="Template_Thymeleaf" />
-        <module name="JavaDocker" />
         <module name="REST_Full_API" />
         <module name="Template Thymeleaf" />
         <module name="RESTFullAPI" />
@@ -23,6 +22,7 @@
         <module name="Spring_Security" />
         <module name="CRUDThymeleaf" />
         <module name="CRUD_Thymeleaf" />
+        <module name="DockerIntegration" />
         <module name="springbatch" />
       </profile>
     </annotationProcessing>
@@ -35,8 +35,8 @@
       <module name="Aula01" options="-parameters" />
       <module name="CRUDThymeleaf" options="-parameters" />
       <module name="CRUD_Thymeleaf" options="-parameters" />
+      <module name="DockerIntegration" options="-parameters" />
       <module name="Intr. ao SpringBoot com Thymeleaf" options="-parameters" />
-      <module name="JavaDocker" options="-parameters" />
       <module name="MultipleDataSources" options="-parameters" />
       <module name="Passo_00" options="-parameters" />
       <module name="Passo_01" options="-parameters" />

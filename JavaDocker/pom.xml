@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>JavaDocker</artifactId>
+	<artifactId>DockerIntegration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>JavaDocker</name>
 	<description>JavaDocker</description>
