@@ -132,7 +132,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/a920062/Desktop/Repostórios Clonados/Java-UFN-JavaAcademy-Projeto-Final&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a920062/Desktop/Repostórios Clonados/Java-UFN-JavaAcademy-Projeto-Final/MARBYN&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -243,6 +243,8 @@
       <workItem from="1723388606875" duration="1514000" />
       <workItem from="1723463398659" duration="916000" />
       <workItem from="1723481397857" duration="723000" />
+      <workItem from="1723630510936" duration="623000" />
+      <workItem from="1723635420999" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull">
       <option name="closed" value="true" />
