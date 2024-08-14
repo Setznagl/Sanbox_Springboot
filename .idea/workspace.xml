@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="feat(New Files): Multiplos Bancos de Dados Spring">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,6 +182,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.SpringsecurityApplication">
+    <configuration name="JavaDockerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="DockerIntegration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.javadocker.JavaDockerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbatchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springbatch" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbatch.SpringbatchApplication" />
@@ -235,7 +240,9 @@
       <workItem from="1723117912728" duration="8749000" />
       <workItem from="1723333083271" duration="9896000" />
       <workItem from="1723348345839" duration="4135000" />
-      <workItem from="1723388606875" duration="623000" />
+      <workItem from="1723388606875" duration="1514000" />
+      <workItem from="1723463398659" duration="916000" />
+      <workItem from="1723481397857" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull">
       <option name="closed" value="true" />
@@ -269,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722984109843</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat(New Files): Multiplos Bancos de Dados Spring">
+      <option name="closed" value="true" />
+      <created>1723412989461</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723412989461</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +306,7 @@
     <MESSAGE value="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull" />
     <MESSAGE value="build(New Files): Aula 03 + conteúdo adicional API REST" />
     <MESSAGE value="feat(New Files): Multiplos Bancos de Dados Spring&#10;&#10;Finalizando exemplo de implantação múltipla de bancos de dados" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(New Files): Multiplos Bancos de Dados Spring&#10;&#10;Finalizando exemplo de implantação múltipla de bancos de dados" />
+    <MESSAGE value="feat(New Files): Multiplos Bancos de Dados Spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(New Files): Multiplos Bancos de Dados Spring" />
   </component>
 </project>
