@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468912e1-7319-47ba-9ff7-17c8cd325597" name="Changes" comment="feat(New Files): Multiplos Bancos de Dados Spring">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,6 +246,7 @@
       <workItem from="1723630510936" duration="623000" />
       <workItem from="1723635420999" duration="596000" />
       <workItem from="1723678161155" duration="363000" />
+      <workItem from="1723678961356" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="build(New Files): Aula 02&#10;&#10;Intrudução a API's Restfull">
       <option name="closed" value="true" />
