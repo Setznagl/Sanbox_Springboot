@@ -14,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/JavaDocker/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MultipleDataSources/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RestAPI/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/SpringBatch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringRESTful/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbatch/src/main/java" charset="UTF-8" />
   </component>
 </project>
